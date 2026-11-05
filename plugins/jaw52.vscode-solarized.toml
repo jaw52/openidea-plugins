@@ -1,0 +1,6 @@
+repository = "https://github.com/jaw52/openidea-theme-solarized-vscode"
+
+[[versions]]
+version = "1.0.0"
+package = "https://github.com/jaw52/openidea-theme-solarized-vscode/releases/download/v1.0.0/jaw52.vscode-solarized-1.0.0.oiplugin"
+sha256 = "4d5ea69f99b644ae6fb8a174401f82ee84b9e85fe4bdd014c3866597eae05955"
